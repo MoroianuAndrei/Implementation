@@ -24,14 +24,6 @@ These implementations were developed using Visual Studio and are organized into 
 - Constant-time insertion (enqueue) and deletion (dequeue).
 - Easy-to-use for managing data flow.
 
-## 🚀 How It Works
-1. Each data structure is implemented as a separate project within Visual Studio solutions:
-   - **Problema 1.sln** – Likely contains the implementation of the doubly linked list or queue.
-   - **Problema 3.sln** – May include another implementation (e.g., Queue or another version of List).
-   - **Forward List.sln** – Contains the implementation of the forward list.
-2. Each solution includes a `main()` file with an interactive menu allowing users to test all functionalities (insertion, deletion, access, traversal, etc.).
-3. Users can compile the solutions using Visual Studio, and interactive console menus enable verification of implemented operations.
-
 ## 🔧 Technologies Used
 - **C++** for implementation.
 
