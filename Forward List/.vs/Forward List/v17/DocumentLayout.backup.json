@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 1\\Semestrul 2\\Structuri de date\\Teme\\Tema 2\\Forward List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2B5D3D-40FB-439B-B742-E99C6A654F56}|Forward List\\Forward List.vcxproj|C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 1\\Semestrul 2\\Structuri de date\\Teme\\Tema 2\\Forward List\\Forward List\\SD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D2B5D3D-40FB-439B-B742-E99C6A654F56}|Forward List\\Forward List.vcxproj|solutionrelative:Forward List\\SD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SD.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 1\\Semestrul 2\\Structuri de date\\Teme\\Tema 2\\Forward List\\Forward List\\SD.cpp",
+              "RelativeDocumentMoniker": "Forward List\\SD.cpp",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 1\\Semestrul 2\\Structuri de date\\Teme\\Tema 2\\Forward List\\Forward List\\SD.cpp",
+              "RelativeToolTip": "Forward List\\SD.cpp",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAJkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T17:11:05.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 1\\Semestrul 2\\Structuri de date\\Teme\\Tema 2\\Problema 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7259776-7EBA-4453-A62B-FE798E11E730}|Problema 1\\Problema 1.vcxproj|C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 1\\Semestrul 2\\Structuri de date\\Teme\\Tema 2\\Problema 1\\Problema 1\\SD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7259776-7EBA-4453-A62B-FE798E11E730}|Problema 1\\Problema 1.vcxproj|solutionrelative:Problema 1\\SD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SD.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 1\\Semestrul 2\\Structuri de date\\Teme\\Tema 2\\Problema 1\\Problema 1\\SD.cpp",
+              "RelativeDocumentMoniker": "Problema 1\\SD.cpp",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\Facultate Informatica\\Licenta\\Anul 1\\Semestrul 2\\Structuri de date\\Teme\\Tema 2\\Problema 1\\Problema 1\\SD.cpp",
+              "RelativeToolTip": "Problema 1\\SD.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T13:26:01.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
